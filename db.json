@@ -1,0 +1,29 @@
+{
+  "lead_times": [
+    {
+      "id": 0,
+      "name": "3-6 days",
+      "selected": false
+    },
+    {
+      "id": 1,
+      "name": "7-13 days",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "name": "14-27 days",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "name": "28+ days",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "name": "Same day",
+      "selected": false
+    }
+  ]
+}
